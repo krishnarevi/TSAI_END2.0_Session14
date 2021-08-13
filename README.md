@@ -15,7 +15,7 @@
 
 ## Solution 💡
 
-Please refer to complete solution for part 1👉 [here](https://github.com/krishnarevi/TSAI_END2.0_Session14/blob/main/part1_session14_BERT.ipynb)
+Please refer to complete solution for part 1👉 [here](https://github.com/krishnarevi/TSAI_END2.0_Session14/blob/main/part1_session14.ipynb)
 
 Please refer to complete solution for part 2 👉 [here](https://github.com/krishnarevi/TSAI_END2.0_Session14/blob/main/partv2_session_14_of_BERT_Fine_Tuning_Sentence_Classification.ipynb)
 
@@ -26,6 +26,8 @@ Please refer to complete solution for part 3 👉 [here](https://github.com/kris
 ### PART 1
 
 #### Task
+
+Build a Question Answering Bot with BERT
 
 #### BERT
 
@@ -78,10 +80,6 @@ The BERT loss function takes into consideration only the prediction of the maske
 #### Training loss
 
 <img src="README.assets/p1_training_loss.PNG" alt="p1_training_loss" style="zoom: 67%;" />
-
-#### Sample Results
-
-
 
 ### PART 2
 
