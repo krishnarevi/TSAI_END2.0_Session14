@@ -80,6 +80,36 @@ The BERT loss function takes into consideration only the prediction of the maske
 #### Training loss
 
 <img src="README.assets/p1_training_loss.PNG" alt="p1_training_loss" style="zoom: 67%;" />
+#### Sample Results
+
+```
+question       >> When was Dali defended by the Yuan?
+predicted answer >> 1253
+
+question       >> What molecules of the adaptive immune system only exist in jawed vertebrates?
+predicted answer >> immunoglobulins and T cell receptors
+
+question       >> What does the capabilities approach look at poverty as a form of?
+predicted answer >> capability deprivation
+
+question       >> How much can the SP alter income tax in Scotland?
+predicted answer >> up to 3 pence in the pound
+
+question       >> The French thought bringing what would uplift other regions?
+predicted answer >> Christianity and French culture
+
+question       >> What organization is the IPCC a part of?
+predicted answer >> World Meteorological Organization
+
+question       >> At what pressure is water heated in the Rankine cycle?
+predicted answer >> high pressure
+
+question       >> What limits the Rankine cycle's efficiency?
+predicted answer >> the working fluid
+
+question       >> In what year did Joseph Priestley recognize oxygen?
+predicted answer >> 1774
+```
 
 ### PART 2
 
