@@ -80,7 +80,7 @@ The BERT loss function takes into consideration only the prediction of the maske
 #### Training loss
 
 <img src="README.assets/p1_training_loss.PNG" alt="p1_training_loss" style="zoom: 67%;" />
-#### Sample Results
+**Sample Results**
 
 ```
 question       >> When was Dali defended by the Yuan?
